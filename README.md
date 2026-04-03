@@ -23,9 +23,9 @@
   * **[llms.txt Generator](https://rankability.com)** – Creates a "sitemap for robots" to guide AI crawlers like GPTBot.
   * **[GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)** – Open-source dashboard to track brand mentions in LLMs.
   * **[Answer Socrates](https://answersocrates.com/)** – Discovery tool for GEO that clusters thousands of questions AI models use for their knowledge bases.
-  * **[Hall (Free Tier)](https://www.google.com/search?q=https://hall.com)** – Monitor real-time AI mentions and brand "share of voice" in generative answers.
+  * **[Hall (Free Tier)](https://usehall.com/)** – Monitor real-time AI mentions and brand "share of voice" in generative answers.
   * **[Frase GEO Score Checker](https://frase.io)** – Analyzes how "scannable" your content is for generative models.
-  * **[Schema.org Generator](https://www.google.com/search?q=https://technicalseo.com/tools/schema-generator/)** – Essential for creating **JSON-LD** so AI agents can parse your data instantly.
+  * **[Schema.org Generator](https://technicalseo.com/tools/schema-generator/)** – Essential for creating **JSON-LD** so AI agents can parse your data instantly.
 
 -----
 
@@ -37,7 +37,9 @@
   * **[Somewhatbot](https://somewhatbot.com)** – A favorite for finding competitor content gaps and SERP feature opportunities.
   * **[AnswerThePublic](https://answerthepublic.com/)** – Visualizes search questions (Who, What, Where, Why).
   * **[Google Trends](https://trends.google.com)** – Spot rising topics and seasonal fluctuations before they peak.
-  * **[Keyword Magic Tool (Free)](https://semrush.com)** – Semrush offers 10 free searches per day with premium-grade data.
+  * **[Semrush Keyword Magic Tool (Free)](https://semrush.com)** – Semrush offers 10 free searches per day with premium-grade data.
+  * **[Ubersuggest] (https://app.neilpatel.com/en/ai-keyword-overview)** - Offers limited free daily searches for keyword ideas and domain tracking.
+  * **[Meta Ads Library] (https://www.facebook.com/ads/library/)** - Understand what kind of ads and messaging brands are running
 
 -----
 
@@ -49,7 +51,8 @@
   * **[Ahrefs Webmaster Tools](https://ahrefs.com/awt)** – Free technical monitoring and backlink data for sites you own.
   * **[PageSpeed Insights](https://pagespeed.web.dev/)** – Real-world performance scores and Core Web Vitals data.
   * **[GTMetrix](https://gtmetrix.com/)** – Detailed waterfall charts and page load analysis.
-  * **[Hreflang Generator](https://www.google.com/search?q=https://www.aleydasolis.com/en/international-seo-tools/hreflang-tags-generator/)** – The go-to tool for setting up international SEO correctly.
+  * **[Hreflang Generator](https://www.aleydasolis.com/en/international-seo-tools/hreflang-tags-generator/)** – The go-to tool for setting up international SEO correctly.
+  * **[Page Comparison Tool] (https://www.digiforbiz.com/seo-tools/page-comparison-tool.html)** – compare two URLs to spot content and SEO differences.
 
 -----
 
@@ -62,6 +65,7 @@
   * **[Hemingway Editor](https://hemingwayapp.com/)** – Ensures your content is readable, bold, and clear.
   * **[WordLift Free Tools](https://wordlift.io)** – Helps generate structured data to turn your site into a "data source" for LLMs.
   * **[DigiForBiz Comparison Tool](https://www.digiforbiz.com/seo-tools/page-comparison-tool.html)** – Compare two URLs to find differences in content and metadata.
+  * **[AI Meta Title & Description Generator](https://bestseotool.net/)** - Enter a keyword and get SEO‑optimized titles + meta descriptions instantly.
 
 -----
 
@@ -71,8 +75,8 @@
 
   * **[LearningSEO.io](https://learningseo.io/)** – The most comprehensive free roadmap from beginner to advanced.
   * **[Semrush Academy](https://www.semrush.com/academy/)** – High-quality video courses with professional certificates.
-  * **[HubSpot SEO Certification](https://www.google.com/search?q=https://academy.hubspot.com/courses/seo)** – Excellent for understanding the intersection of SEO and Inbound Marketing.
-  * **[Google Analytics 4 (Skillshop)](https://www.google.com/search?q=https://skillshop.google.com/)** – Official Google training for data tracking.
+  * **[HubSpot SEO Certification](https://academy.hubspot.com/courses/seo)** – Excellent for understanding the intersection of SEO and Inbound Marketing.
+  * **[Google Analytics 4 (Skillshop)](https://skillshop.withgoogle.com/)** – Official Google training for data tracking.
 
 -----
 
