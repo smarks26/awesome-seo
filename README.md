@@ -26,6 +26,7 @@
   * **[Hall (Free Tier)](https://usehall.com/)** – Monitor real-time AI mentions and brand "share of voice" in generative answers.
   * **[Frase GEO Score Checker](https://frase.io)** – Analyzes how "scannable" your content is for generative models.
   * **[Schema.org Generator](https://technicalseo.com/tools/schema-generator/)** – Essential for creating **JSON-LD** so AI agents can parse your data instantly.
+  * **[NotFair](https://github.com/nowork-studio/NotFair)** – Free, open-source Claude Code skills for SEO, GEO & AEO; runs site audits and pulls live Search Console + GA4 data via MCP.
 
 -----
 
